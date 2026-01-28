@@ -6,4 +6,6 @@ matplotlib
 dill
 catboost
 Flask
-#-e .
+fastapi
+uvicorn[standard]
+-e .
